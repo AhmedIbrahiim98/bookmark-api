@@ -12,8 +12,4 @@ services:
       - localNetwork
 networks:
   localNetwork:
-
-#   networks:
-#       - freecodecamp
-# networks:
-#   freecodecamp:
+  
